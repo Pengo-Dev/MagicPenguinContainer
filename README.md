@@ -4,9 +4,12 @@
 
 Magic Penguin is a DMINT NFT collection on Atomicals Protocol
 Total NFT quantity in collection is `3,333` that divided into 3 rarities
-- Common: `3234`
-- Uncommon: `72`
-- Rare: `27`
+
+| Rarity | Quantity | Bitworkc |
+|---------|----------|----------|
+| Common | `3234` | `abcd` |
+| Uncommon | `72` | `abcde` |
+| Rare | `27` | `abcdef` |
 
 ## Atomicals DMINT Introduction
 DMINT stands for “decentralized mint” which is a newly minting method introduced by Atomicals protocol (https://docs.atomicals.xyz/collection-containers). To dmint a NFT, users will need to download the data that submitted in the container by project, and locally mint using the official command-line tool or through any third party that supports dmint.
