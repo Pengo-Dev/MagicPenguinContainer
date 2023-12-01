@@ -25,7 +25,7 @@ This mysterious and captivating digital art invites collectors to explore the wo
 Click on the image below to get the penguin mint file and to mint for fun!
 
 You can also download the compressed file for batch mint.
-[zip file](./items.zip)
+[zip file](https://github.com/Pengo-Dev/MagicPenguinContainer/blob/main/items.zip)
 
 |#0|#1|#2|#3| #4| #5|#6|#7|#8|#9|#10|
 |-|-|-|-|-|-|-|-|-|-|-|
