@@ -5,6 +5,7 @@
 Magic Penguin is a DMINT NFT collection on Atomicals Protocol
 Total NFT quantity in collection is `3,333` that divided into 3 rarities
 
+container name **`penguin`**
 | Rarity | Quantity | Bitworkc |
 |---------|----------|----------|
 | Common | `3234` | `abcd` |
